@@ -7,16 +7,17 @@ The `LabelPrinterSDKSR20` is a Java library designed to simplify interactions wi
 ## Installation
 
 # Gradle
-
+````
 Add the following to your `build.gradle`:
 
 groovy
 dependencies {
 implementation 'com.microlan:labelprinter:1.0-SNAPSHOT'
 }
+````
 
 # Maven
-
+````
 Add the following to your 'pom.xml':
 
 xml
@@ -26,7 +27,7 @@ Copy code
 <artifactId>labelprinter</artifactId>
 <version>1.0-SNAPSHOT</version>
 </dependency>
-
+````
 
 # Usage
 ````
